@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 *   🌍  I'm based in Seattle, WA
-*   ✉️  You can contact me at [yisakordawit2003@gmail.com](mailto:yisakordawit2003@gmail.com)
+*   ✉️  You can contact me at [yisakor.mirany1@gmail.com](mailto:yisakordawit2003@gmail.com)
 *   🧠  I'm learning Python, Java, C++, and C#
 *   ⚡  I love Video Games
 
